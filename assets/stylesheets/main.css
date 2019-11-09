@@ -96,6 +96,7 @@ Primary header
 */
 
 .logo {
+	border-top: 4px solid #648880;
 	float: left;
 }
 
